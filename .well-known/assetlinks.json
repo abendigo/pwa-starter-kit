@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "blog.frustraded.pwa.starterkit",
+    "sha256_cert_fingerprints": 
+    ["C5:71:58:C5:F1:D0:3C:90:7B:CE:4C:8E:2B:51:90:5E:D3:D5:9D:84:61:6A:93:05:6F:29:64:2F:05:A1:52:DD"]
+  }
+}]
